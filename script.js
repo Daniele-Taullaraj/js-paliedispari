@@ -20,11 +20,6 @@ if ((pariOdispari === "pari" && somma % 2 === 0) || (pariOdispari === "dispari" 
 
 
 
-
-
-
-
-
 // funzione per creare numero random del pc
 function randomNumber() {
     return Math.floor(Math.random() * 5) + 1;
